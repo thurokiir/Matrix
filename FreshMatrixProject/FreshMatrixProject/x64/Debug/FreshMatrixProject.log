@@ -1,0 +1,7 @@
+﻿  MatrixController.cpp
+c:\users\morir\documents\visual studio 2015\projects\freshmatrixproject\freshmatrixproject\matrixcontroller.cpp(93): warning C4101: 'storage': unreferenced local variable
+c:\users\morir\documents\visual studio 2015\projects\freshmatrixproject\freshmatrixproject\matrixcontroller.cpp(163): warning C4101: 'storage': unreferenced local variable
+c:\users\morir\documents\visual studio 2015\projects\freshmatrixproject\freshmatrixproject\matrixcontroller.cpp(221): warning C4101: 'storage': unreferenced local variable
+c:\users\morir\documents\visual studio 2015\projects\freshmatrixproject\freshmatrixproject\matrixcontroller.cpp(463): warning C4101: 'storage': unreferenced local variable
+  FreshMatrixProject.vcxproj -> C:\Users\Morir\Documents\Visual Studio 2015\Projects\FreshMatrixProject\x64\Debug\FreshMatrixProject.exe
+  FreshMatrixProject.vcxproj -> C:\Users\Morir\Documents\Visual Studio 2015\Projects\FreshMatrixProject\x64\Debug\FreshMatrixProject.pdb (Full PDB)
